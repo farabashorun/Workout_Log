@@ -1,0 +1,46 @@
+body {
+    background-image: url("station.jpg");
+    background-size: cover;
+    font-family:  BlinkMacSystemFont;
+    font-weight: bold;
+    text-align: center;
+    color: whitesmoke;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: whitesmoke;
+    font-weight: 5px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: darkred;
+     box-shadow: 0 3px #000;
+}
+
+#save-btn {
+    background: darkgreen;
+     box-shadow: 0 3px #000;
+}
+
+li {
+    list-style-type: none;
+}
